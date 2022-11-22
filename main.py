@@ -5,3 +5,5 @@ b = 45
 c = a * b / aa
 
 print(c)
+print(b)
+print(aa)
